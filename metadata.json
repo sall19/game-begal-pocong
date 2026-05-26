@@ -1,0 +1,6 @@
+{
+  "name": "Teror Begal Pocong",
+  "description": "Game horor interaktif bertema teror begal yang cosplay sebagai Pocong dan merampok rumah menggunakan celurit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
